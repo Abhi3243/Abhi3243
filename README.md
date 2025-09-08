@@ -1,4 +1,4 @@
-Hi, I’m Abhiram Yenugula! I’m passionate about programming and computer science, and I’m building a strong foundation for future study and research in technology.
+Hi, I’m Abhiram Yenugula. I’m passionate about programming and computer science, and I’m building a strong foundation for future study and research in technology.
 
 Proficient in Python, with a solid grasp of its core principles and applications.
 
